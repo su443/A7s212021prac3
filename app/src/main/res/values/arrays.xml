@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="Estados">
+
+    <item>CDMX</item>
+    <item>OAXACA</item>
+    <item>PUEBLA</item>
+    <item>AGUASCALIENTES</item>
+    <item>GUERRERO</item>
+    <item>MICHOACAN</item>
+    <item>NUEVO LEON</item>
+    <item>YUCATAN</item>
+    <item>JALISCO</item>
+    <item>SONORA</item>
+
+        </string-array>
+</resources>
